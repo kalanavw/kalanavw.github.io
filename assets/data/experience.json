@@ -3,10 +3,17 @@
   "title": "Experience",
   "experience": [
     {
+      "position": "Associate Tech Lead",
+      "companyName": "Axiata Digital Labs",
+      "from": "01/04/2020",
+      "to": "",
+      "tecTags": []
+    },
+    {
       "position": "Senior Software Engineer",
       "companyName": "Axiata Digital Labs",
       "from": "20/08/2020",
-      "to": "",
+      "to": "31/03/2022",
       "tecTags": []
     },
     {
