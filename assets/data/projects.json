@@ -5,8 +5,12 @@
       "name": "Dialog Mithra",
       "modules": [
         "User Management, ",
-        "Agent Management, ",
-        "Inventory Management, "
+        "Notification Management, ",
+        "Payment Management, ",
+        "Rapyd Wallet Management, ",
+        "Offer Management, ",
+        "Report Module, ",
+        "Admin Dashboard (Angular 13)"
       ],
       "tecTags": [
         {
@@ -17,27 +21,27 @@
         {
           "name": "JWT",
           "color": "badge-primary",
-          "url": "#"
+          "url": "https://jwt.io/"
         },
         {
           "name": "Spring (Data, REST, Security, Cache)",
           "color": "badge-success",
-          "url": "#"
+          "url": "https://spring.io/"
         },
         {
           "name": "Spring Boot",
           "color": "badge-success",
-          "url": "#"
+          "url": "https://spring.io/"
         },
         {
           "name": "Spring Cloud Gateway",
           "color": "badge-success",
-          "url": "#"
+          "url": "https://spring.io/"
         },
         {
-          "name": "Faign Client",
+          "name": "Feign Client",
           "color": "badge-primary",
-          "url": "#"
+          "url": "https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html"
         },
         {
           "name": "Netflix Riboon",
@@ -78,6 +82,26 @@
           "name": "AWS(EKS, ECR, Load Balancer, Code Build)",
           "color": "badge-warning",
           "url": "#"
+        },
+        {
+          "name": "Rapyd",
+          "color": "badge-primary",
+          "url": "https://www.rapyd.net/"
+        },
+        {
+          "name": "Ez Cash",
+          "color": "badge-primary",
+          "url": "https://www.ezcash.lk/"
+        },
+        {
+          "name": "Fire Base",
+          "color": "badge-danger",
+          "url": "https://firebase.google.com/"
+        },
+        {
+          "name": "Angular",
+          "color": "badge-danger",
+          "url": "https://angular.io/"
         }
       ],
       "description": "- Mithra, powered by Dialog is a mobile application dedicated to Sri Lankan citizens, who are residents and workers in foreign countries to access to a range of services related to their home country, Sri Lanka. These services are mainly financial, and Mithra bridges the users and the services which if not the user has no access due to the geographical challenge. Mithra targets this market and facilitate them by providing an e-wallet for them to take care of their expenses related to Sri Lanka. If the foreign worker needs to take care of the utility bill payments of the house, user no more needs the support of a person living in Sri Lanka to make payments on behalf of the user. Mithra has become “that person” and facilitates any such service such as utility payments, bill payments and bank transfers. Mithra app users can also view the home country news via the Mithra app and it also facilitates calls, where user can talk to other Mithra app users free and to any Dialog mobile in Sri Lanka using a call plan"
