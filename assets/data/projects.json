@@ -102,6 +102,11 @@
           "name": "Angular",
           "color": "badge-danger",
           "url": "https://angular.io/"
+        },
+        {
+          "name": "Rapyd Wallet",
+          "color": "badge-success",
+          "url": "https://www.rapyd.net/"         
         }
       ],
       "description": "- Mithra, powered by Dialog is a mobile application dedicated to Sri Lankan citizens, who are residents and workers in foreign countries to access to a range of services related to their home country, Sri Lanka. These services are mainly financial, and Mithra bridges the users and the services which if not the user has no access due to the geographical challenge. Mithra targets this market and facilitate them by providing an e-wallet for them to take care of their expenses related to Sri Lanka. If the foreign worker needs to take care of the utility bill payments of the house, user no more needs the support of a person living in Sri Lanka to make payments on behalf of the user. Mithra has become “that person” and facilitates any such service such as utility payments, bill payments and bank transfers. Mithra app users can also view the home country news via the Mithra app and it also facilitates calls, where user can talk to other Mithra app users free and to any Dialog mobile in Sri Lanka using a call plan"
