@@ -3,10 +3,17 @@
   "title": "Experience",
   "experience": [
     {
+      "position": "Software Engineer",
+      "companyName": "Crédit Agricole CIB",
+      "from": "06/12/2022",
+      "to": "",
+      "tecTags": []
+    },
+    {
       "position": "Associate Tech Lead",
       "companyName": "Axiata Digital Labs",
-      "from": "01/04/2020",
-      "to": "",
+      "from": "01/04/2022",
+      "to": "28/11/2022",
       "tecTags": []
     },
     {
